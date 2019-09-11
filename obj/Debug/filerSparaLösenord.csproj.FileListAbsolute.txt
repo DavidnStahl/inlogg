@@ -1,0 +1,7 @@
+C:\Users\dns20\source\repos\filerSparaLösenord\filerSparaLösenord\bin\Debug\filerSparaLösenord.exe.config
+C:\Users\dns20\source\repos\filerSparaLösenord\filerSparaLösenord\bin\Debug\filerSparaLösenord.exe
+C:\Users\dns20\source\repos\filerSparaLösenord\filerSparaLösenord\bin\Debug\filerSparaLösenord.pdb
+C:\Users\dns20\source\repos\filerSparaLösenord\filerSparaLösenord\obj\Debug\filerSparaLösenord.csprojAssemblyReference.cache
+C:\Users\dns20\source\repos\filerSparaLösenord\filerSparaLösenord\obj\Debug\filerSparaLösenord.csproj.CoreCompileInputs.cache
+C:\Users\dns20\source\repos\filerSparaLösenord\filerSparaLösenord\obj\Debug\filerSparaLösenord.exe
+C:\Users\dns20\source\repos\filerSparaLösenord\filerSparaLösenord\obj\Debug\filerSparaLösenord.pdb
